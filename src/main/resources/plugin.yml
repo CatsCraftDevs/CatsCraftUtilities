@@ -1,5 +1,6 @@
 name: CatsCraftUtilities
 version: ${project.version}
+load: STARTUP
 main: utilities.catscraft.CatsCraftUtilities
 api-version: 1.17
 authors: [ brainsynder ]
