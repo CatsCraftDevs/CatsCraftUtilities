@@ -1,0 +1,5 @@
+name: CatsCraftUtilities
+version: ${project.version}
+main: utilities.catscraft.CatsCraftUtilities
+api-version: 1.17
+authors: [ brainsynder ]
